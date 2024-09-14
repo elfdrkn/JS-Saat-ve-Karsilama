@@ -1,0 +1,1 @@
+This setup provides a personalized welcome message and continuously updates the time and date on the screen.
